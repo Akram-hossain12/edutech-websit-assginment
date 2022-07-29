@@ -20,3 +20,18 @@ body{
     z-index: 5;
 
 }
+@media only screen and (max-width:770px) {
+  .banner-item{
+    top:-140px ;
+  }
+
+  .banner-item h2{
+    font-size: 14px;
+  }
+  .banner-item p{
+    font-size: 10px;
+  }
+  .banner-item button{
+  width: 100px; height: 30px;font-size: 14px; font-weight: 400;" 
+  }
+}
